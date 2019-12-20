@@ -14,7 +14,7 @@ We collected 104 high-resolution SAR images from Sandia MiniSAR and FARAR SAR im
 # Image samples of the dataset
 ## MiniSAR
 
-<img src="https://github.com/whu-csl/SAR_vehicle_detection_dataset/blob/master/image\%20samples/minisar/minisar1.png"  height="400" width="500">
+<img src="https://github.com/whu-csl/SAR_vehicle_detection_dataset/blob/master/image%20samples/minisar/minisar1.png"  height="400" width="500">
 
 <img src="https://github.com/whu-csl/SAR_vehicle_detection_dataset/blob/master/image\%20samples/minisar/minisar2.png"  height="400" width="500">
 
