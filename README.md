@@ -11,10 +11,19 @@ We collected 104 high-resolution SAR images from Sandia MiniSAR and FARAR SAR im
   | FARAD SAR Ka-band|4 inches|  38    |1153|
   | FARAD SAR X-band|4 inches|  51   |1143|
   
-# Samples of the dataset
+# Image samples of the dataset
 ## MiniSAR
-![Image text](../pic/concurrent/aa.jpg)
+![Image text](image samples/minisar/minisar_1.png)
+![Image text](image samples/minisar/minisar_2.png)
+![Image text](image samples/minisar/minisar_3.png)
+![Image text](image samples/minisar/minisar_4.png)
 ## FARAD SAR Ka-band
-![Image text](../pic/concurrent/aa.jpg)
+![Image text](image samples/FARAD Ka/FARAD_Ka_1.png)
+![Image text](image samples/FARAD Ka/FARAD_Ka_2.png)
+![Image text](image samples/FARAD Ka/FARAD_Ka_3.png)
+![Image text](image samples/FARAD Ka/FARAD_Ka_4.png)
 ## FARAD SAR X-band
-![Image text](../pic/concurrent/aa.jpg)
+![Image text](image samples/FARAD X/FARAD_X_1.png)
+![Image text](image samples/FARAD X/FARAD_X_2.png)
+![Image text](image samples/FARAD X/FARAD_X_3.png)
+![Image text](image samples/FARAD X/FARAD_X_4.png)
