@@ -11,7 +11,7 @@ We collected 104 high-resolution SAR images from Sandia MiniSAR and FARAR SAR im
   | FARAD SAR Ka-band|4 inches|  38    |1153|
   | FARAD SAR X-band|4 inches|  51   |1143|
   
-# Image samples of the dataset
+# Image samples of the dataset （Compressed for display）
 ## MiniSAR
 
 <img src="https://github.com/whu-csl/SAR_vehicle_detection_dataset/blob/master/image%20samples/minisar/minisar1.png"  height="400" width="500">
